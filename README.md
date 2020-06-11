@@ -1,2 +1,2 @@
 # Africa-Tour-Website
- bootstrap e-commerce website
+ e-commerce website using HTML, CSS and Bootsrap 
